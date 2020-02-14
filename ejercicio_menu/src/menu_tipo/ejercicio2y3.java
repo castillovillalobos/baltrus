@@ -23,7 +23,7 @@ public class ejercicio2y3 {
 					String ingresaMujer ="m";
 					String ingresaHombre ="h";
 				
-					
+				//hola	
 					
 			if (entradaTeclado.equals(ingresaMujer)) {
 			System.out.println ("Diríjase al baño de mujeres");
